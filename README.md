@@ -29,7 +29,7 @@ A simple contracts table UI that display some dummy data
     $ git clone https://github.com/qwmichael/Contract
 
     ```
-5. Once the project is cloned into the system. You need to run install all the dependencies for this project:
+5. Once the project is cloned into the system. You need to install all the dependencies for this project:
 
     ```sh
     $ cd Contract
